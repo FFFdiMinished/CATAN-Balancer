@@ -29,5 +29,3 @@ st->op1->op2->op3->op4->op5->op6->op7->op8->e
 
 This flowchart outlines the sequential steps involved in the code execution, from importing libraries to plotting the final board. Each step contributes to creating a randomized board layout for a game.
 
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/13235423/b5964dac-1338-4685-8259-28b31ea60d8f/paste.txt
